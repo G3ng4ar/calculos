@@ -1,0 +1,6 @@
+app\AppMain.class
+app\repository\CalculosRepository.class
+app\controller\CalculosController.class
+app\entity\Resultado.class
+app\service\CalculosService.class
+app\entity\Entrada.class
